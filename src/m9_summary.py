@@ -1,14 +1,10 @@
 """
-An exercise that summarizes what you have learned in this Session.
+An exercise that summarizes what you have learned in this session.
 
 Authors: David Mutchler, Vibha Alangar, Dave Fisher, Matt Boutell, Mark Hays,
          Mohammed Noureddine, Sana Ebrahimi, Sriram Mohan, their colleagues and
          PUT_YOUR_NAME_HERE.
-"""
-###############################################################################
-# TODO: 1.
-#   On Line 5 above, replace  PUT_YOUR_NAME_HERE  with your own name.
-###############################################################################
+"""   # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
 # TODO: 2.
